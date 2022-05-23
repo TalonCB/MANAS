@@ -21,7 +21,7 @@ scikit_learn>=0.23.1
 
 ## Datasets
 
-- The processed datasets are in  [`./dataset/`](https://github.com/TalonCB/MANAS/tree/master/src/dataset)
+- The processed datasets are in  [`./dataset/`](https://github.com/TalonCB/MANAS/tree/master/dataset)
 
 - **Amazon Datasets**: The origin dataset can be found [here](http://jmcauley.ucsd.edu/data/amazon/). 
     
