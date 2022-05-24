@@ -11,7 +11,7 @@ import logging
 
 class Controller(nn.Module):
     """
-    Reference to https://github.com/TalonCB/enas_pytorch/blob/master/models/controller.py
+    Reference to https://github.com/TDeVries/enas_pytorch/blob/master/models/controller.py
     """
     def __init__(self,
                  num_item,
