@@ -1,5 +1,5 @@
 # MANAS
-This repository includes the implementation for Modularized Adaptive Neural Architecture Search (MANAS):
+This repository includes the implementation for Learning Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS):
 
 *Hanxiong Chen, Yunqi Li, He Zhu, Yongfeng Zhang. 2022.*
 
